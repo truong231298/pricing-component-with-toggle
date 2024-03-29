@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Basic",
+        "price": 19.99,
+        "info": {
+            "storage": "500GB",
+            "users": 2,
+            "devices": 3
+        }
+    },
+    {
+        "name": "Professional",
+        "price": 24.99,
+        "info": {
+            "storage": "1TB",
+            "users": 5,
+            "devices": 10
+        }
+    },
+    {
+        "name": "Master",
+        "price": 39.99,
+        "info": {
+            "storage": "2TB",
+            "users": 10,
+            "devices": 20
+        }
+    }
+]
